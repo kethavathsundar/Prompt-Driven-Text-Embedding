@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # Initialize Cohere Client with API Key
-api_key = "hooAHnPKG0f5R0CagUriMT2iepVpWOzHu6UidksF"  # Replace with your actual Cohere API key
+api_key = "yooAHnPKG0f5R0CagUriMT2iepVpWOzHu6UidksF"  # Replace with your actual Cohere API key
 co = cohere.Client(api_key)
 
 # Streamlit UI
